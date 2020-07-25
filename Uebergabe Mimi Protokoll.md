@@ -79,7 +79,8 @@ Auto-Schlüssel notwendig
 
 ### Diesel/AdBlue
 
-Auf AdBlue hinweisen
+Auf AdBlue hinweisen, 
+Auto-Schlüssel notwendig
 
 ### Strom Anschluss
 
@@ -131,6 +132,8 @@ Beide Ringe erklären, Wasser braucht ca. 20-30 Minuten zum Warm werden, geht ü
 
 ### Sicherungskasten + Frostschutz
 
+Zeigen wo er sich befindet. Frostschutz sollte im Sommer kein Thema sein.
+
 ### Kochstelle Gas
 
 Anzünder nötig
@@ -153,6 +156,7 @@ Anzünder nötig
 * Salatbesteck
 * Salatschüsseln
 * Schöpfbesteck
+* Anzünder/Zundhölzer
 * 1 Salatsieb
 
 
@@ -184,12 +188,14 @@ Einmal zusammen umbauen
 
 ### Sicherheitsschlösser
 
+Hintertüre und grosse Schiebetüre.
+
 Vor dem Fahren wieder entfernen! Zugang Rettungskräfte!
 
 
 ### Fenster
 
-Handling Verschluss
+Handling Verschluss. Fliegengitter. Fenster Führerkabine
 
 ### Fahren
 
@@ -210,9 +216,12 @@ Kontrolle vor dem Abfahren:
 * Fertig-Kaffee (Keine Maschine vorhanden)
 * Putzmittel
 * Badezimmerteppich
+* Stecker Adapter DE
+* 1 USB Anschluss
+* Navigationsgerät
 * WC Chemie
 * Haushaltspapier
-* Omnia Backofen
+* [Omnia Backofen](https://4reifen1klo.de/rezepte-omnia-backofen). Sich vorher schlau machen über die Rezepte lohnt sich!
 
 ## Mitnehmen
 
@@ -225,3 +234,4 @@ Kontrolle vor dem Abfahren:
 ### Empfohlen
 
 * UE-Boom - Die Lautsprechen sind nicht so toll
+* Zundhölzer
