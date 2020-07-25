@@ -206,6 +206,8 @@ Kontrolle vor dem Abfahren:
 * Gas abgestellt
 * Sicherheitsschlösser entfernt
 
+Hinweis Rückfahrkamera: Nur wenn eingeschaltet.
+
 ## Vorhanden
 
 * Gewürze
