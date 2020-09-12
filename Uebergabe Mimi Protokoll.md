@@ -45,14 +45,14 @@
 
 Inhalt: 
 
-* 3 Stühle
+* 4 Stühle (2 grosse, 2 kleinere)
 * Stromkiste
 * Wasserkiste
 * Kiste mit Sturmspanner
 * Schnur + Ikea Tintenfisch zum Wäsche aufhängen
 * Auffahr-Keile zum ausgleichen
+* Keil für Parkieren an sehr steilen Orten
 * Aussentisch
-* Klappstühle
 * Brett und Kissen für 3tes Bett
 
 #### Wagenheber Pannendreieck
