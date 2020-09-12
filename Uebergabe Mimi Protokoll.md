@@ -199,6 +199,8 @@ Handling Verschluss. Fliegengitter. Fenster Führerkabine
 
 ### Fahren
 
+Zeigen wie man die Sitze dreht.
+
 Kontrolle vor dem Abfahren: 
 * Schubladen verschlossen
 * Dachfenster zu
