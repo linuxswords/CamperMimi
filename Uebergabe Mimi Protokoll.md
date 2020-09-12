@@ -20,6 +20,7 @@
 	- [Heizung](#heizung)
 	- [Sicherungskasten + Frostschutz](#sicherungskasten--frostschutz)
 	- [Kochstelle Gas](#kochstelle-gas)
+	- [Kühlschrank](#k%C3%BChlschrank)
 	- [Geschirr](#geschirr)
 	- [Vorratskasten](#vorratskasten)
 	- [Schwenkbad](#schwenkbad)
@@ -137,6 +138,10 @@ Zeigen wo er sich befindet. Frostschutz sollte im Sommer kein Thema sein.
 ### Kochstelle Gas
 
 Anzünder nötig
+
+### Kühlschrank
+
+Elektrisch betrieben, muss bei der Truma eingeschaltet werden, und im Kühlschrank selber auch, Stufe 1 hat uns immer gereicht. Bis wir die Solar-Anlage haben lohnt es sich hier zu sparen ;)
 
 ### Geschirr
 
