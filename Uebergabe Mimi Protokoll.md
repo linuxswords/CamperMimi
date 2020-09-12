@@ -67,11 +67,11 @@ Kabel und Schuko Stecker vorhanden -> auf Schleichspannung hinweisen -> Kabel au
 
 #### Wasser
 
-Vor dem Tanken den Deckel öffnen damit die Luft nicht durch den Auffüllstutzen. 
+Vor dem Tanken den Deckel öffnen damit die Luft nicht durch den Auffüllstutzen entweicht und Wasser blockiert. 
 
 Wasserkiste mit Kanister/Schlauch und diversen Anschlüssen zeigen. Hinweis auf Gewicht.
 
-Vor der Rückgabe Frischwasser ablassen und danach wieder verschliessen, den ansonsten verschiebt sich der Verschluss bei der Fahrt und lässt sich nur manuell wieder ein
+Vor der Rückgabe Frischwasser ablassen und danach wieder verschliessen, den ansonsten verschiebt sich der Verschluss bei der Fahrt und lässt sich nur manuell wieder einrenken.
 
 ### Wasser auffüllen
 
@@ -162,7 +162,7 @@ Anzünder nötig
 
 ### Vorratskasten
 
-Eimer vorhanden mit Nachfüll
+Eimer vorhanden mit Nachfüllsäcken
 
 ### Schwenkbad
 
@@ -184,7 +184,7 @@ Mit Chemie erklären. Alle 2-3 Tage leeren
 
 Handling Tisch
 
-Einmal zusammen umbauen
+Einmal zusammen umbauen bei 3 Personen
 
 ### Sicherheitsschlösser
 
