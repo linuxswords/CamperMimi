@@ -136,7 +136,7 @@ Ein/Ausschalten, ist ein 300 Watt reiner Sinus Wechselrichter (Laptop etc.), Aus
 
 Aus dem App/Play-Store die _SolarAPP_ installieren und Gerät gemäss Bild wählen. Zeigt Batteriestand/Verbrauch und auch wieviel die Solaranlage gerade lädt.
 
-![SolarAPP](SolarAPP-screenshot.png)
+![SolarAPP](SolarAPP-screenshot.png){ height=50% }
 
 ### Heizung
 
