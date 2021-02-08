@@ -17,6 +17,8 @@
 	- [Veloträger](#velotr%C3%A4ger)
 - [Innen](#innen)
 	- [Elektrik/Truma](#elektriktruma)
+	- [Steckdose unter Fahrersitz](#steckdose-unter-fahrersitz)
+	- [SolarAPP](#solarapp)
 	- [Heizung](#heizung)
 	- [Sicherungskasten + Frostschutz](#sicherungskasten--frostschutz)
 	- [Kochstelle Gas](#kochstelle-gas)
@@ -126,6 +128,15 @@ Einschalten, Kühlschrank, Wasserpumpe.
 
 Anzeige Wasserstand, Stand Batterien, Temperatur
 
+### Steckdose unter Fahrersitz
+
+Ein/Ausschalten, ist ein 300 Watt reiner Sinus Wechselrichter (Laptop etc.), Ausschalten bei nicht Gebrauch, braucht auch Batterie
+
+### SolarAPP
+
+Aus dem App/Play-Store die _SolarAPP_ installieren und Gerät gemäss Bild wählen. Zeigt Batteriestand/Verbrauch und auch wieviel die Solaranlage gerade lädt.
+
+![SolarAPP](SolarAPP-screenshot.png)
 
 ### Heizung
 
