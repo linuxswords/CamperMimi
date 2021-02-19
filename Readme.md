@@ -112,7 +112,10 @@ Zu Zweit runterlassen. Sturmspanner erklären.
 
 ### Veloträger
 
-Handling zeigen.
+Handling zeigen. Modell: Uebler P32-S - Drei Räder, max 50kg (ungefähr zwei E-Bikes)
+
+<img src="Fahrradtraeger-Uebler.jpg" height="450px">
+
 
 ## Innen
 
