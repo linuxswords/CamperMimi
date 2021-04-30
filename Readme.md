@@ -56,7 +56,7 @@ Inhalt:
 * Auffahr-Keile zum ausgleichen
 * Keil für Parkieren an sehr steilen Orten
 * Aussentisch
-* Brett und Kissen für 3tes Bett
+* Brett und Kissen für 3tes Bett (Nur ab drei Personen)
 
 #### Wagenheber Pannendreieck
 
@@ -226,6 +226,7 @@ Kontrolle vor dem Abfahren:
 * Badetüre verschlossen
 * Gas abgestellt
 * Sicherheitsschlösser entfernt
+* Klo verschlossen
 
 Hinweis Rückfahrkamera: Nur wenn eingeschaltet.
 
@@ -240,7 +241,7 @@ Hinweis Rückfahrkamera: Nur wenn eingeschaltet.
 * Putzmittel
 * Badezimmerteppich
 * Stecker Adapter DE
-* 1 USB Anschluss
+* 2 USB Anschlüsse
 * Navigationsgerät
 * WC Chemie
 * Haushaltspapier
@@ -256,5 +257,4 @@ Hinweis Rückfahrkamera: Nur wenn eingeschaltet.
 
 ### Empfohlen
 
-* UE-Boom - Die Lautsprechen sind nicht so toll
 * Zundhölzer
