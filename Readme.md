@@ -254,6 +254,7 @@ Hinweis Rückfahrkamera: Nur wenn eingeschaltet.
 * WC Papier (Starter Rolle vorhanden)
 * Geschirr/Handtücher
 * Putzlappen
+* Kaffee-Maschine für auf den Gasherd. Wir sind Teetrinker :)
 
 ### Empfohlen
 
